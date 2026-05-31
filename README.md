@@ -35,16 +35,4 @@ Swipe Left/Right: Change lanes
 
 Developed by Nauman Computer Science Student | Focused on AI and HCI
 
-Why this README is good for you:
-Clear Structure: Recruiters can see your tech stack and how to run your code in seconds.
 
-Technical Detail: Mentioning specific versions like mediapipe==0.10.21 shows you know how to handle library compatibility issues.
-
-Visual Aid: The mention of the landmark map explains the "logic" behind your code without needing to read every line.
-
-Once you save this file, remember to run these commands to update your GitHub:
-
-Bash
-git add README.md
-git commit -m "Added a professional README"
-git push
